@@ -34,6 +34,8 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 
 <br>
 
+## Certifications
+
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/80f46ccd-eedf-4b40-b52a-ea999c3d314f" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f4966530-f16c-49d3-ab9a-520f64165fc7" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
