@@ -37,6 +37,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 ## Certifications
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/beea18d6-d303-44ea-808c-6cc2cfa53ccc" title="AWS Certified Security – Specialty"><img src="https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/80f46ccd-eedf-4b40-b52a-ea999c3d314f" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f4966530-f16c-49d3-ab9a-520f64165fc7" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1f213747-6465-497e-bccc-5c4e57db519c" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
