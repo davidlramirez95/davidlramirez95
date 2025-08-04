@@ -51,6 +51,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 <a href="https://www.credly.com/badges/33c30b17-3f14-4506-92fd-3995ed0daee3" title="AWS Educate Getting Started with Networking"><img src="https://images.credly.com/size/80x80/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Educate Getting Started with Networking" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a45a6e03-59a7-4717-a73c-0307841a71a1" title="AWS Educate Web Builder"><img src="https://images.credly.com/size/80x80/images/b7695469-4083-4e65-b11b-ffc90f4492dd/image.png" alt="AWS Educate Web Builder" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a538c3e8-797e-42c1-abdf-47fe81a05c0a" title="AWS Educate Machine Learning - DeepRacer"><img src="https://images.credly.com/size/80x80/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" alt="AWS Educate Machine Learning - DeepRacer" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/38dc9551-66ef-445a-a588-d093957bc750" title="AWS Knowledge: Compute"><img src="https://images.credly.com/size/80x80/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png" alt="AWS Knowledge: Compute" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <div align="center">
