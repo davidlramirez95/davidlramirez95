@@ -20,7 +20,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=ts,js,go,java,nodejs,graphql,spring,aws,dynamodb,kafka,reactivex,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=terraform,bash,webstorm,vscode,nodejs,yarn,npm,grafana,mysql,git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=terraform,bash,webstorm,vscode,yarn,npm,grafana,mysql,git,github,githubactions" />
   </a>
 </p>
 
