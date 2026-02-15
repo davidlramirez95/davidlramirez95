@@ -37,6 +37,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 ## Certifications
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/de4be944-31f2-4cc3-8680-8d2f8ffc0e4e" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/beea18d6-d303-44ea-808c-6cc2cfa53ccc" title="AWS Certified Security – Specialty"><img src="https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/10579df1-59bf-46ea-ac11-1b5e786b9017" title="AWS Certified Machine Learning Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/80f46ccd-eedf-4b40-b52a-ea999c3d314f" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
@@ -53,7 +54,6 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 <a href="https://www.credly.com/badges/33c30b17-3f14-4506-92fd-3995ed0daee3" title="AWS Educate Getting Started with Networking - Training Badge"><img src="https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a45a6e03-59a7-4717-a73c-0307841a71a1" title="AWS Educate Web Builder - Training Badge"><img src="https://images.credly.com/size/80x80/images/94eac7af-d49a-4f94-adfa-c4518fd50b91/blob" alt="AWS Educate Web Builder - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a538c3e8-797e-42c1-abdf-47fe81a05c0a" title="AWS Educate Machine Learning - DeepRacer"><img src="https://images.credly.com/size/80x80/images/26fffe39-a730-47e5-8278-457de2d59174/image.png" alt="AWS Educate Machine Learning - DeepRacer" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/de4be944-31f2-4cc3-8680-8d2f8ffc0e4e" title="AWS Certified Solutions Architect – Professional"><img src="https://images.credly.com/size/80x80/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/38dc9551-66ef-445a-a588-d093957bc750" title="AWS Knowledge: Compute - Training Badge"><img src="https://images.credly.com/size/80x80/images/c2d44375-6567-495a-b868-d17828c62872/blob" alt="AWS Knowledge: Compute - Training Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
